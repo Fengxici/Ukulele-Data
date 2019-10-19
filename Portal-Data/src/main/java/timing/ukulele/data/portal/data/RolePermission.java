@@ -1,4 +1,4 @@
-package timing.ukulele.data.portal.data;
+.package timing.ukulele.data.portal.data;
 
 import lombok.Data;
 
