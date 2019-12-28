@@ -6,7 +6,7 @@ import java.util.List;
 
 @Data
 public class UserDTO {
-    private Long idl;
+    private Long id;
     /**
      * 用户名
      */
@@ -27,10 +27,6 @@ public class UserDTO {
      * 标签
      */
     private String label;
-    /**
-     * 部门ID
-     */
-    private Long deptId;
     /**
      * 角色ID
      */
