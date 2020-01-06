@@ -9,7 +9,7 @@ import java.util.List;
 public class AntMenuVO implements Serializable {
     private Long id;
     private Boolean enable;
-    private Boolean parentId;
+    private Long parentId;
     private String key;
     private String text;
     private String i18n;
