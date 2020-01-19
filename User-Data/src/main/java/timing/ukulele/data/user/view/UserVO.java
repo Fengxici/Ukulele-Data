@@ -47,8 +47,14 @@ public class UserVO implements Serializable {
      * 标签
      */
     private List<String> label;
+
     /**
-     * 部门名称
+     * 第三方平台账户标识 如openId
      */
-    private String deptName;
+    private String platId;
+
+    /**
+     * 第三方平台类型 1小程序
+     */
+    private Integer plat;
 }
