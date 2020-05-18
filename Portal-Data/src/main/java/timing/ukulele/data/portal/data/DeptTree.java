@@ -6,6 +6,7 @@ import timing.ukulele.common.data.TreeNode;
 
 /**
  * 部门树
+ * @author fengxici
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

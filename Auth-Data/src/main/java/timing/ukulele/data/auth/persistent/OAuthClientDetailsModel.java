@@ -6,6 +6,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * @author fengxici
+ */
 @Data
 @TableName("oauth_client_details")
 public class OAuthClientDetailsModel implements Serializable {

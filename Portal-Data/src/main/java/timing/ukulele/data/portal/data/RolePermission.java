@@ -4,6 +4,9 @@ import lombok.Data;
 
 import java.util.List;
 
+/**
+ * @author fengxici
+ */
 @Data
 public class RolePermission {
     private List<String> acl;

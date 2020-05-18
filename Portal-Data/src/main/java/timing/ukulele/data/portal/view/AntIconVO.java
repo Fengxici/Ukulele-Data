@@ -4,6 +4,9 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+/**
+ * @author fengxici
+ */
 @Data
 public class AntIconVO implements Serializable {
     private Long id;

@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * 字典索引对象
+ * @author fengxici
  */
 @Data
 public class DictIndexVO  implements Serializable {

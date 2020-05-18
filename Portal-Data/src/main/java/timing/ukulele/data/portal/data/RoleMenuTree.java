@@ -6,6 +6,9 @@ import timing.ukulele.common.data.TreeNode;
 
 import java.util.List;
 
+/**
+ * @author fengxici
+ */
 @EqualsAndHashCode(callSuper = true)
 @Data
 public class RoleMenuTree extends TreeNode {

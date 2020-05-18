@@ -5,6 +5,9 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.List;
 
+/**
+ * @author fengxici
+ */
 @Data
 public class AntMenuVO implements Serializable {
     private Long id;

@@ -5,6 +5,9 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * @author fengxici
+ */
 @Data
 public class ThirdPartyUserVO implements Serializable {
     private Long id;

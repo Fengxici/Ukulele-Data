@@ -2,6 +2,7 @@ package timing.ukulele.data.syslog;
 
 /**
  * 系统日志类型
+ * @author fengxici
  */
 public enum LogType {
     /**

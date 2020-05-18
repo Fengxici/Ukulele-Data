@@ -6,6 +6,7 @@ import java.io.Serializable;
 
 /**
  * 字典视图对象
+ * @author fengxici
  */
 @Data
 public class DictVO implements Serializable {
