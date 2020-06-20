@@ -5,6 +5,9 @@ import lombok.EqualsAndHashCode;
 import timing.ukulele.common.data.TreeNode;
 import timing.ukulele.data.portal.view.MenuVO;
 
+/**
+ * @author fengxici
+ */
 @EqualsAndHashCode(callSuper = true)
 @Data
 public class MenuTree extends TreeNode {

@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * 批量编辑角色菜单视图对象
+ * @author fengxici
  */
 @Data
 public class RoleMenuEditVO implements Serializable {

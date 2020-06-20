@@ -7,6 +7,7 @@ import java.util.Date;
 
 /**
  * 日志记录VO
+ * @author fengxici
  */
 @Data
 public class LogVO implements Serializable {

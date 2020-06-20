@@ -8,6 +8,7 @@ import java.util.List;
 
 /**
  * 系统用户
+ * @author fengxici
  */
 @Data
 public class UserVO implements Serializable {

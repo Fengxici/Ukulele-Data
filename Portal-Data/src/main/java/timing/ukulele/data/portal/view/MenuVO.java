@@ -7,6 +7,7 @@ import java.util.Date;
 
 /**
  * 菜单权限表
+ * @author fengxici
  */
 @Data
 public class MenuVO implements Serializable {

@@ -7,6 +7,9 @@ import timing.ukulele.data.portal.view.AntIconVO;
 
 import java.util.List;
 
+/**
+ * @author fengxici
+ */
 @EqualsAndHashCode(callSuper = true)
 @Data
 public class AntMenuTree extends TreeNode {

@@ -7,6 +7,7 @@ import java.util.Date;
 
 /**
  * 系统角色
+ * @author fengxici
  */
 @Data
 public class RoleVO implements Serializable {
