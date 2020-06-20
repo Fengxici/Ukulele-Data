@@ -14,6 +14,7 @@ public class RoleVO implements Serializable {
     private Long id;
     private String roleName;
     private String roleCode;
+    private String roleLevel;
     private String roleDesc;
     private Date createTime;
     private Date updateTime;
