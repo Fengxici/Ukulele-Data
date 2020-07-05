@@ -62,4 +62,9 @@ public class UserVO implements Serializable {
      * 第三方平台类型 1小程序
      */
     private Integer plat;
+
+    /**
+     * 验证码
+     */
+    private String captcha;
 }
