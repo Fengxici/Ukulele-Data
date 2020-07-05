@@ -41,6 +41,10 @@ public class UserVO implements Serializable {
      */
     private String phone;
     /**
+     * 简介
+     */
+    private String email;
+    /**
      * 头像
      */
     private String avatar;
